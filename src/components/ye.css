@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(27, 109, 175);
+}
+ .input-text{
+    
+    color: white;
+    background-color:rgb(27, 109, 175);
+    width:600px;
+    height:600px;
+}
+.input{
+    padding-left: 50px;
+    color: white;
+    
+}
+.output-text{
+    width:600px;
+    height:600px;
+    color: white;
+   background-color:black;
+   box-shadow: 1px 1px 1px grey;
+}
+.output{
+    
+    color: white;
+    
+}
+h3{
+    color: white;
+} 
+.container{
+    display:flex;
+    flex-flow: nowrap row;
+    gap:200px;
+}
